@@ -13,4 +13,4 @@ https://kevinfromconn.github.io/run-buddy
 ## Contribution
 Made with ❤️ by Kevin White Jr
 
-# Run Buddy, Inc.
+### ©️2021 Run Buddy, Inc.
